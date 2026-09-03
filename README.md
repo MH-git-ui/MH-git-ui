@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./Black Monochrome Business LinkedIn Banner.png" alt="Mahmudul Hassan Banner" width="100%">
+</p>
 
 <!--
 **MH-git-ui/MH-git-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
