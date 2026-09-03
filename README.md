@@ -14,8 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Mahmudul Hassan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+# Hi, I'm Mahmudul Hassan 👋
+
+## 🧑‍💻 About Me
+
+I'm a passionate web development student on a focused journey to become a hirable junior developer. I'm currently deep in the MERN stack — building real projects from scratch to understand every layer, not just copy-paste my way through.
+
+I believe clean code starts with strong fundamentals, so I'm taking the time to genuinely master HTML, CSS, and JavaScript before leaning on frameworks. I love collaborating with others, learning in public, and turning ideas into interfaces that actually feel good to use.
+
+---
+
+## 🔭 What I'm Up To
+
+- 🌐 Building **DevConf 2026** — a full conference landing page to master CSS layout fundamentals
+- ⚛️ Currently leveling up with **React** (components, props, state, hooks)
+- 📚 Working through the **Programming Hero** MERN stack bootcamp
+- 🎯 Building a **personal portfolio** site from scratch (no templates)
+- 🔨 Practising **Git hygiene** — conventional commits, atomic changes, clean history
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-git-ui&label=Profile%20views&color=0e75b6&style=flat" alt="mh-git-ui" /> </p>
 
